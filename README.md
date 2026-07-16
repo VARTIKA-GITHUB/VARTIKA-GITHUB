@@ -83,7 +83,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vartika-yadav-5989a1308//">
+<a href="https://www.linkedin.com/in/vartika-yadav-5989a1308/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -91,7 +91,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://leetcode.com/u/https://leetcode.com/u/yadav_vartika19//">
+<a href="https://leetcode.com/u/yadav_vartika19/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
