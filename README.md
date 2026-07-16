@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vartika</h1>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VARTIKA-GITHUB&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 <h3 align="center">Final Year B.Tech Student | Aspiring Software Engineer | DSA Enthusiast</h3>
 
 <p align="center">
@@ -9,13 +12,14 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year B.Tech Student
+- 🎓 Problem Solver | Full Stack Learner | DSA Enthusiast
 - 💻 Currently solving DSA problems in **C++**
 - 🌱 Learning **React, DBMS, SQL & PostgreSQL**
 - 🚀 Preparing for Software Engineering Placements
 - 📚 Always learning something new
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -35,6 +39,12 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARTIKA-GITHUB&theme=tokyonight&hide_border=true" width="48%" />
 
+</p>
+---
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VARTIKA-GITHUB&theme=tokyo-night"/>
 </p>
 
 ---
