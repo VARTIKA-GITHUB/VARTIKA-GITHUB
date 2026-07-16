@@ -38,13 +38,11 @@
 </p>
 
 ---
-
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARTIKA-GITHUB&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARTIKA-GITHUB&layout=compact&theme=tokyonight&hide_border=true&card_width=445" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
